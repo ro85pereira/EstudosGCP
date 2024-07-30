@@ -1,0 +1,8 @@
+Desafio personalizando o dashboard do GCP.
+
+Este desafio é importante porque podemos ver as principais informações do projeto (nome, número e Id) e configurar os principais atalhos nesta tela e assim melhorar a experiência de uso do GCP.
+
+1. Para acessar o dashboard faça: Menu 3 barras,Visão geral, Painel.
+2 . O professor também explicou como mudar o idioma pelo caminho: menu superior direito, 3 pontinhos, preferências.
+3. A mudança de idioma é importante porque em muitas documentações é utilizado a lingua inglesa e as vezes é necessário mudar o idioma para ingles para encontrar
+os caminhos da documentação mais facil. Também é bacana porque alguns códigos das documentações estão desatualizados na versão em português.
