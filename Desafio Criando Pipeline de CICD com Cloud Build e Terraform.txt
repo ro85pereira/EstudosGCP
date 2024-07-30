@@ -1,0 +1,12 @@
+Desafio: Criando Pipeline de CI/CD com Cloud Build e Terraform.
+
+Cloud build é uma ferramenta de CI/CD serveless do GCP sendo extremamente recomendada para equipes que não possuem especialista em Infraestrutura para utilizar
+outras ferramentas como Jenkins e Spinnaker.
+
+O terraforma é uma ferramenta de Infraestrutura como Código para automatizar a criação de de infraestrutura via código e asism automatizar processos.
+
+A utilização do Cloud build + Terraform é extremamente utilizada para Ci/CD por oferecer velocidade e evitar falhas humanas na criação de infraestruturas e 
+entregas CI/CD.
+
+Para o desafio foi informado um endereço de projeto : https://github.com/digitalinnovationone/terraform-gcp/tree/main/terraform-exemplo2
+Para o desafio devemos clonar o repositório e alterar o nome da máquina virtual que será utilizada. Depois utilizar os arquivos para criar o pipeline.
