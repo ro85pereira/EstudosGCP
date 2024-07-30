@@ -1,0 +1,5 @@
+Desafio utilizando o Cloud Shell
+
+O Cloud shell é um editor de código por linha de comando semelhante a um terminal do Linux para utilização direto no GCP.
+É muito importante para utilizações de maneira fácil do próprio GCP tanto pela área de gerenciamento quanto pela área de desenvolvimento.
+É bacana mencionar que diveras ferramentas já estão instaladas e atualizadas nele como por exemplo mysql, kubernetesm docker e skaffold.
