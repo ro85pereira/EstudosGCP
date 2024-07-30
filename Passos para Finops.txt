@@ -1,0 +1,11 @@
+Definição de orçamento para projeto de empresa para curso de GCP.
+
+1. Primeiro passo é criar uma conta de faturamento para o projeto e assim acompanhar o controle de custo.
+2. É necessário entender e utilizar as métricas de FinOps. Isto é necessário para ter conciência que recursos geram custos e por isso é necessário
+estudo de tudo que será utilizado e assim evitar desperdicios. 
+3. Sempre medir os custos utilizados para entender se há disperdicios na gestão.
+4. Otimizar a utilização da cloud, isto não é apenas algo que o FinOps deve seguir e sim toda a empresa. Desde o desenvolvimento ao gerenciamento da cloud é necessário ter
+um cultura de otimização para sempre entregar o mesmo resultado com menos esfroço e gasto.
+5. Acompanhar o Active Assistent para entender as recomedações do próprio Google para melhorar performance e evitar custos.
+6. Criar dashborad com Looker para monitoramento dos custos.
+7. Utilizar Bigquery com DataStudio para controle dos custos. 
